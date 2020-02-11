@@ -1,0 +1,6 @@
+.idea
+out/production
+.gradle
+build
+config.properties
+.DS_Store
